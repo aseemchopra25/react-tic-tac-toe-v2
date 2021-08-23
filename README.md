@@ -1,6 +1,6 @@
-# Tic Tac Toe with React.js and styled components buttons with animations
+# Tic Tac Toe with React.js 
 
-> Bursting particle effect buttons with audio play for React.
+> Added styled buttons using styled-components
 
 
 ![Alt Text](https://raw.githubusercontent.com/aseemchopra25/external-files/main/react-tic-tac-toe-v2.gif)
