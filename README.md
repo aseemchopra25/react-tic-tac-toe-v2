@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Tic Tac Toe with React.js and styled components buttons with animations
+
+> Bursting particle effect buttons with audio play for React.
+
+
+![Alt Text](https://raw.githubusercontent.com/aseemchopra25/external-files/main/react-tic-tac-toe-v2.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
